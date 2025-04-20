@@ -1,0 +1,15 @@
+[project]
+name = "minor-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.2.2",
+    "pillow>=11.1.0",
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.42.0",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+]
