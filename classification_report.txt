@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Cani_aure       0.96      0.94      0.95       179
+   Catt_catt       0.97      0.97      0.97       175
+   Hyen_hyen       0.94      0.98      0.96       189
+   Pant_pard       0.98      0.95      0.96       189
+   Rusa_unic       0.96      0.96      0.96       168
+
+    accuracy                           0.96       900
+   macro avg       0.96      0.96      0.96       900
+weighted avg       0.96      0.96      0.96       900
